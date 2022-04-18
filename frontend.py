@@ -29,9 +29,9 @@ class FrontEnd:
                 *Recruiter, give me an referral for internship.*
                 ''')
                 with c1:
-                    slider1 = sl.slider("Select the maximum length of words:", min_value=75, max_value=250)
+                    slider1 = sl.slider("Select the maximum length of words:", min_value=75, max_value=250, value=125)
                 with c2:
-                    slider2 = sl.slider("Select the random state.", min_value=0.0, max_value=1.0)
+                    slider2 = sl.slider("Select the random state.", min_value=0.0, max_value=1.0, value=0.5)
                 button = sl.form_submit_button(label = "Generate")
                 if 'generate' in sl.session_state.keys() and sl.session_state['generate']:
                     with sl.spinner("Generating the email..."):

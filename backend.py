@@ -4,7 +4,6 @@ class EmailAssistant:
     def __init__(self, key):
         self.key = key
 
-    #     
     def email(self, start:str = "Hi, John Doe", len:int = 250, draft:str = "recruiter, give me an referral for internship.", topic:str = 'Request for referral', random_state:float = 0.9 ) -> str:
         openai.api_key = self.key
         return openai.Completion.create(
