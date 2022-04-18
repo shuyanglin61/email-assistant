@@ -5,7 +5,7 @@ A project for DS5899 Transformer
 Demo created
 
 2022/04/18
-Demo completed
+[Huggingface](https://huggingface.co/spaces/HayashiShio/email-assistant-special-course) Deployed
 
 # How to run the demo:
 
