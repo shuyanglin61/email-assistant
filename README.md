@@ -1,8 +1,11 @@
-# email-assistant-openai
+# Email Assistant via GPT-3
 A project for DS5899 Transformer
 
 2022/03/16
 Demo created
+
+2022/04/18
+Demo completed
 
 # How to run the demo:
 
