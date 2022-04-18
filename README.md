@@ -35,10 +35,11 @@ Click [here](https://colab.research.google.com/github/vandylins19/email-assistan
 ### Critical Analysis
 
 + The apparence of the front end remains a lot of space for improvement.
-+ The app didn't customize the training of the model.
++ The app didn't customize the training of the model. A better published example is InstructGPT.
 + Bug testings are insufficient. Input errors are not caught and handled manually.
 
 ### Resource Links
 
 + [OpenAI tutorial](https://beta.openai.com/docs/quickstart)
 + [Streamlit documents](https://docs.streamlit.io/)
++ [Aligning Language Models to Follow Instructions](https://openai.com/blog/instruction-following/)
