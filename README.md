@@ -1,6 +1,6 @@
 # Email Assistant via GPT-3
 
-![python](https://img.shields.io/badge/Python-3.9.0%2B-green)
+![python](https://img.shields.io/badge/Python-3.9.0%2B-brightgreen)
 ![openai](https://img.shields.io/badge/openai-0.15.0%2B-blue)
 ![streamlit](https://img.shields.io/badge/StreamLit-1.2.0%2B-purple)
 ![license](https://img.shields.io/badge/license-MIT-green)
