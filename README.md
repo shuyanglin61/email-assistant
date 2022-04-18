@@ -9,11 +9,12 @@ Demo completed
 
 # How to run the demo:
 
-* Sign up for an OpenAI account
+* [Sign up](https://beta.openai.com/) for an OpenAI account
 * Clone this repo to local
-* Insert your private key in backend.py
 * Install streamlit and openai by running commands:
   * pip install streamlit
   * pip install openai
 * Run the frontend locally by running the command in the project path:
   * streamlit run frontend.py
+* Copy the [API key](https://beta.openai.com/account/api-keys) and input it.
+
