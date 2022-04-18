@@ -1,10 +1,11 @@
 # Email Assistant via GPT-3
-A project for DS5899 Transformer
 
 ![python](https://img.shields.io/badge/Python-3.9.0%2B-green)
 ![openai](https://img.shields.io/badge/openai-0.15.0%2B-blue)
 ![streamlit](https://img.shields.io/badge/StreamLit-1.2.0%2B-purple)
 ![license](https://img.shields.io/badge/license-MIT-green)
+
+A project for DS5899 Transformer
 
 2022/03/16
 
