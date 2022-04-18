@@ -9,13 +9,9 @@ A project for DS5899 Transformer
 
 ### Timeline
 
-2022/03/16
+2022/03/16 - Demo created
 
-Demo created
-
-2022/04/18
-
-:hugs: Hugging Face Deployed
+2022/04/18 - :hugs: Hugging Face Deployed
 
 ### Web App
 
