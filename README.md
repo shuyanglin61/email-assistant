@@ -7,11 +7,11 @@ Demo created
 
 2022/04/18
 
-:hugs: Huggingface Deployed
+:hugs: Hugging Face Deployed
 
 ### Web App
 
-Deployed on [Huggingface](https://huggingface.co/spaces/HayashiShio/email-assistant-special-course)
+Deployed on [Hugging Face](https://huggingface.co/spaces/HayashiShio/email-assistant-special-course)
 
 ### Notebook Tutorial
 
